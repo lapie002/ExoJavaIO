@@ -40,8 +40,15 @@ public class JavaApplicationEntreeSortieRevision {
         //ExoByteArray.launchCharArrayWriterReader();
         //ExoByteArray.launchStringWriterReader();
         
-        //exo 7 sur les entrees sorties  : Game Serialisable 
+        //exo 7 sur les entrees sorties  : 
         //ExoInOut7.launchExoInOut7();
+        
+        //exo 8 sur les entrees sorties  : 
+        //ExoInOut8.launchExoInOut();
+        
+        //exo 9 sur les entrees sorties  : Pb de boucle infini
+        //ExoInOut9.launchExoInOut();
+        ExoInOut9.launchExoInOutTestPath();
         
     }
     
