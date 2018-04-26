@@ -48,7 +48,9 @@ public class JavaApplicationEntreeSortieRevision {
         
         //exo 9 sur les entrees sorties  : Pb de boucle infini
         //ExoInOut9.launchExoInOut();
-        ExoInOut9.launchExoInOutTestPath();
+        //ExoInOut9.launchExoInOutTestPath();
+        //ExoInOut9.laucnchFastCopy();
+        //ExoInOut9.launchZip();
         
     }
     
